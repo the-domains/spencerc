@@ -1,0 +1,14 @@
+layout_spectrum: 0.165115610929206
+typography_spectrum: 0.11695826449431479
+color:
+  brandStrength: 0.5341970550362021
+  lightness: 0.567056646803394
+  saturation: 0.006526229437440634
+  rhythmicContrast: 0.630531911039725
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: spencerc
